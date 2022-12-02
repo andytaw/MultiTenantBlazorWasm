@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MTPA.Client", "MTPA.Client\MTPA.Client.csproj", "{7AEF37E3-B8A4-4CC7-B9AB-A628BB7B3E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTPA.Server", "MTPA.Server\MTPA.Server.csproj", "{1DFCD002-4787-4ED4-8DE3-AD341388A45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AEF37E3-B8A4-4CC7-B9AB-A628BB7B3E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEF37E3-B8A4-4CC7-B9AB-A628BB7B3E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEF37E3-B8A4-4CC7-B9AB-A628BB7B3E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEF37E3-B8A4-4CC7-B9AB-A628BB7B3E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DFCD002-4787-4ED4-8DE3-AD341388A45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFCD002-4787-4ED4-8DE3-AD341388A45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFCD002-4787-4ED4-8DE3-AD341388A45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFCD002-4787-4ED4-8DE3-AD341388A45F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {874A3344-6C54-4006-AEB1-1CE7D7E7F028}
+	EndGlobalSection
+EndGlobal
